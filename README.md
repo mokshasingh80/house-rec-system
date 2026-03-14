@@ -1,11 +1,20 @@
 # House Price Prediction System
 
-This project predicts house prices using Linear Regression.
+A machine learning project that predicts house prices based on property features.
 
-Technologies used:
+## Technologies Used
 - Python
 - NumPy
 - Pandas
-- Scikit-learn
 - Matplotlib
+- Scikit-learn
+
+## Features
+- Linear Regression model for price prediction
+- User input for house features
+- Data visualization using Matplotlib
+
+## How to Run
+pip install -r requirements.txt
+python main.py
 
